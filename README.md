@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Saidu Rahman Rakib   
+- 👋 Hi, I’m Saidur Rahman Rakib   
 - 👀 I’m interested in travelling 
 - 🌱 I’m currently learning Web Development 
 - 💞️ I’m looking to collaborate on Personal Project
